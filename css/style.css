@@ -62,7 +62,8 @@ p{
 
 .scene--page .topnav__area,
 .all-scene--page .topnav__area,
-.cameras--page .topnav__area{
+.cameras--page .topnav__area,
+.camera-gslv--page .topnav__area{
     padding-top: 24px;
 }
 
@@ -851,11 +852,58 @@ p{
 .left--btn-wrapper .add--camera-btn{
     display:none;
 }
-/* Scene--Comment Area */
+
+.camera--gslv__area{
+    padding-top: 56px;
+}
+.camera--gslv__area{
+    width: 100%;
+    display:flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.camera-gslv--img{
+    max-width:65%;
+    flex-basis: 65%;
+    margin-right: 2%;
+}
+.fixed-pending--comment{
+    max-width:33%;
+    flex-basis: 33%;
+}
+
+.fixed__btn,
+.pending__btn{
+    font-family: 'ABeeZee',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 28px;
+    color: #FFFFFF;
+    border: 0;
+    width: 160px;
+    height: 71px;
+    border-radius: 9px;
+}
+.fixed__btn svg,
+.pending__btn svg{
+    width:22px;
+    margin-right: 6px;
+}
+.fixed__btn{
+    background:#0EB500;
+    margin-right: 28px;
+}
+.pending__btn{
+    background:#CA7900;
+}
 
 
-
-
+.fixed--pending-btn{
+    text-align: center;
+    padding-bottom: 40px;
+}
 
 
 
