@@ -1008,9 +1008,11 @@
     .recent--viewed-cameras--list ul li a{
         font-size:16px;
     }
+    .all--scene--content table,
     .recent--scene--content table {
-        width: 1000px;
+        width: 1250px;
     }
+    
     /*Scene--Comment Area*/
 
     /* Main  Content */
@@ -1251,8 +1253,19 @@
     .recent--viewed-cameras--list ul li a{
         font-size:16px;
     }
+    .recent--scene--content, .all--scene--content{
+        padding:12px;
+    }
+    .all--scene--content table,
     .recent--scene--content table {
         width: 1000px;
+    }
+    .action__btn button{
+        width:32px;
+        height:32px;
+    }
+    .action__btn button img{
+        width: 60%;
     }
     /*Scene--Comment Area*/
 

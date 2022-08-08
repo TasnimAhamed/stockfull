@@ -720,19 +720,23 @@ p{
     height:59px;
 }
 
+.all-scene--table,
 .recent-scene--table{
     padding-top: 56px;
 }
 
-.recent--scene--title{
+.recent--scene--title,
+.all--scene--title{
     padding-bottom: 32px;
 }
-.recent--scene--content{
+.recent--scene--content,
+.all--scene--content{
     background: #fff;
     border-radius: 8px;
     padding:20px;
 }
-.recent--scene--content table thead tr th{
+.recent--scene--content table thead tr th,
+.all--scene--content table thead tr th{
     font-family: 'Inter',sans-serif;
     font-style: normal;
     font-weight: 500;
@@ -740,10 +744,11 @@ p{
     line-height: 22px;
     color: #000000;
     vertical-align: middle;
-    padding-top: 16px;
-    padding-bottom: 16px;
+    padding-top: 12px;
+    padding-bottom: 12px;
 }
-.recent--scene--content table tbody tr td{
+.recent--scene--content table tbody tr td,
+.all--scene--content table tbody tr td{
     font-family: 'ABeeZee',sans-serif;
     font-style: normal;
     font-weight: 400;
@@ -768,6 +773,16 @@ p{
 }
 .status--unconfirmed{
     color: #BA0000!important;
+}
+.action__btn button{
+    border: 0;
+    background:rgba(196, 196, 196, 0.2);
+    width:39px;
+    height: 39px;
+    border-radius:50%;
+}
+.action__btn button:not(:last-child){
+    margin-right: 8px;
 }
 /* Scene--Comment Area */
 
