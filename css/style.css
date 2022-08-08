@@ -93,6 +93,11 @@ p{
 .side__menus .menu__item .menu__link img.active-img{
     display: none;
 }
+
+.side__menus .menu__item .menu__link img:nth-child(2){
+    display: none;
+}
+
 .side__menus .menu__item .menu__link.menu__active img:first-child{
     display: none;
 }
