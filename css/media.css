@@ -694,6 +694,9 @@
     .recent--activity--title{
         margin-bottom:20px;
     }
+    .recent--viewed-cameras--title{
+        margin-top: 40px;
+    }
     .scene--content-box{
         padding: 16px 12px;
         max-width: 32%;
@@ -769,6 +772,11 @@
         font-size: 16px;
         line-height: 22px;
     }
+    .all--scene--content table,
+    .recent--scene--content table {
+        width: 1250px;
+    }
+    
     /*Scene--Comment Area*/
 
     /* Main  Content */
