@@ -1,0 +1,1261 @@
+@media (min-width: 1800px){
+    
+}
+
+@media (min-width:1600px) and (max-width:1799px){
+    .subheading{
+        font-size: 22px;
+        line-height: 28px;
+    }
+    /* Side Nav */
+    .sidenav__area{
+        padding: 32px 16px 32px 16px;
+        max-width:100px;
+    }
+    .menu__wrapper{
+        padding: 32px 12px 0 12px;
+        width: 64px;
+    }
+    .admin__menu .menu__item .menu__link{
+        width: 64px;
+        height: 64px;
+    }
+    .side__menus .menu__item .menu__link img{
+        width: 24px;
+        height: 24px
+    }
+    .side__menus .menu__item:not(:last-child) {
+        margin-bottom: 32px;
+    }
+    .admin__menu .menu__item .menu__link img {
+        width: 32px;
+        height: 34px;
+    }
+    /*  Side Nav */
+
+    /* Main  Content */
+    .main__content{
+        width: 100%;
+        margin-left: 100px;
+        padding-left:24px;
+        padding-right:24px;
+        padding-bottom:24px;
+    }
+
+    /* Top Nav */
+    
+    .topnav__area .page--title h3{
+        font-size: 26px;
+        line-height: 22px;
+    }
+    .topnav--nav li:not(:first-child){
+        margin-left: 40px;
+    }
+
+    .topnav--nav .topnav__item .topnav__link.add__camera-btn{
+        width: 160px;
+        height: 60px;
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .topnav--nav .topnav__item .topnav__link.add__camera-btn span svg{
+        width: 14px;
+        margin-left: 10px;
+    }
+    .topnav--nav .topnav__item .topnav__link.notification svg {
+        width:26px;
+    }
+    .topnav--nav .topnav__item .topnav__link.profile img{
+        width: 36px;
+    }
+    /* Top Nav */
+
+    /* Activity--Stats--Planogram Area */
+    
+    .activity--stats--planogram__area{
+        padding-top: 32px;
+    }
+
+    .activity--chart .daily--activity:not(:last-child){
+        margin-right: 4px;
+    }
+    .activity--content, .stats--content, .planogram--content {
+        padding: 24px;
+    }
+    .chart--col{
+        width: 32px;
+    }
+    .activity--title, .stats--title, .planogram--title{
+        margin-bottom: 20px;
+    }
+    .planogram--content-wrapper h2{
+        font-size:16px;
+        margin-top: 12px;
+    }
+    /* Activity--Stats--Planogram Area */
+
+    /*Scene--Comment Area*/
+
+    .scene--comment__area,
+    .recent--activity-stats__area{
+        padding-top: 32px;
+    }
+    .comment--wrapper {
+        max-width: 40%;
+        flex-basis: 35%;
+    }
+    .scene--title, .comment--title,
+    .recent--activity--title{
+        margin-bottom:20px;
+    }
+    .scene--content-box{
+        padding: 16px 12px;
+        max-width: 32%;
+        flex-basis: 32%;
+    }
+    .scene--content .scene--content-box:not(:last-child){
+        margin-right: 2%;
+    }
+    .scene--content-box--text .top__text h5,
+    .scene--content-box--text .bottom__text p, .scene--content-box--text .bottom__text span {
+        font-size:16px
+    }
+    .scene--content-box--text .top__text{
+        margin-bottom: 6px;
+    }
+    .scene__img-box{
+        width: 45px;
+        height: 45px
+    }
+    .scene__img-box img {
+        width: 20px;
+        height: 20px;
+    }
+
+    .scene--content-box--text {
+        padding-left:16px;
+    }
+    .recent--activity {
+        max-width: 50%;
+        flex-basis: 50%;
+        margin-right: 4%;
+    }
+    .stats--area {
+        max-width: 46%;
+        flex-basis: 46%;
+    }
+    .recent--activity--content{
+        padding: 16px;
+    }
+    .recent--activity--text h5,
+    .single--stats--content span:last-child {
+        font-size:15px;
+    }
+    .recent--activity--content .recent--activity--text:not(:last-child),
+    .recent-stats--content .single--stats--content:not(:last-child){
+        margin-bottom: 16px;
+    }
+    .comment--tab .nav.nav-tabs li button{
+        padding: 6px 12px;
+        min-width: 100px;
+    }
+    .profile--img {
+        max-width:5%;
+        flex-basis:5%;
+    }
+    .input--box{
+        width: 100%;
+        max-width: 95%;
+        flex-basis: 95%;
+    }
+    .all-scene-and-recent--scene{
+        max-width:66%;
+        flex-basis:66%;
+    }
+    .by--store {
+        max-width: 25%;
+        flex-basis: 25%;
+    }
+    /*Scene--Comment Area*/
+}
+
+@media (min-width:1400px) and (max-width:1599px){
+    .subheading{
+        font-size: 22px;
+        line-height: 28px;
+    }
+    /* Side Nav */
+    .sidenav__area{
+        padding: 32px 16px 32px 16px;
+        max-width:100px;
+    }
+    .menu__wrapper{
+        padding: 32px 12px 0 12px;
+        width: 64px;
+    }
+    .admin__menu .menu__item .menu__link{
+        width: 64px;
+        height: 64px;
+    }
+    .side__menus .menu__item .menu__link img{
+        width: 24px;
+        height: 24px
+    }
+    .side__menus .menu__item:not(:last-child) {
+        margin-bottom: 32px;
+    }
+    .admin__menu .menu__item .menu__link img {
+        width: 32px;
+        height: 34px;
+    }
+    /*  Side Nav */
+
+    /* Main  Content */
+    .main__content{
+        width: 100%;
+        margin-left: 100px;
+        padding-left:24px;
+        padding-right:24px;
+        padding-bottom:24px;
+    }
+
+    /* Top Nav */
+    
+    .topnav__area .page--title h3{
+        font-size: 26px;
+        line-height: 22px;
+    }
+    .topnav--nav li:not(:first-child){
+        margin-left: 40px;
+    }
+
+    .topnav--nav .topnav__item .topnav__link.add__camera-btn{
+        width: 160px;
+        height: 60px;
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .topnav--nav .topnav__item .topnav__link.add__camera-btn span svg{
+        width: 14px;
+        margin-left: 10px;
+    }
+    .topnav--nav .topnav__item .topnav__link.notification svg {
+        width:26px;
+    }
+    .topnav--nav .topnav__item .topnav__link.profile img{
+        width: 36px;
+    }
+    /* Top Nav */
+
+    /* Activity--Stats--Planogram Area */
+    
+    .activity--stats--planogram__area{
+        padding-top: 32px;
+    }
+
+    .activity--chart .daily--activity:not(:last-child){
+        margin-right: 4px;
+    }
+    .activity--content, .stats--content, .planogram--content {
+        padding: 24px;
+    }
+    .chart--col{
+        width: 32px;
+    }
+    .activity--title, .stats--title, .planogram--title{
+        margin-bottom: 20px;
+    }
+    .planogram--content-wrapper h2{
+        font-size:16px;
+        margin-top: 12px;
+    }
+    /* Activity--Stats--Planogram Area */
+
+    /*Scene--Comment Area*/
+
+    .scene--comment__area,
+    .recent--activity-stats__area{
+        padding-top: 32px;
+    }
+    .comment--wrapper {
+        max-width: 40%;
+        flex-basis: 35%;
+    }
+    .scene--title, .comment--title,
+    .recent--activity--title{
+        margin-bottom:20px;
+    }
+    .scene--content-box{
+        padding: 16px 12px;
+        max-width: 32%;
+        flex-basis: 32%;
+    }
+    .scene--content .scene--content-box:not(:last-child){
+        margin-right: 2%;
+    }
+    .scene--content-box--text .top__text h5,
+    .scene--content-box--text .bottom__text p, .scene--content-box--text .bottom__text span {
+        font-size:16px
+    }
+    .scene--content-box--text .top__text{
+        margin-bottom: 6px;
+    }
+    .scene__img-box{
+        width: 45px;
+        height: 45px
+    }
+    .scene__img-box img {
+        width: 20px;
+        height: 20px;
+    }
+
+    .scene--content-box--text {
+        padding-left:16px;
+    }
+    .recent--activity {
+        max-width: 50%;
+        flex-basis: 50%;
+        margin-right: 4%;
+    }
+    .stats--area {
+        max-width: 46%;
+        flex-basis: 46%;
+    }
+    .recent--activity--content{
+        padding: 16px;
+    }
+    .recent--activity--text h5,
+    .single--stats--content span:last-child {
+        font-size:15px;
+    }
+    .recent--activity--content .recent--activity--text:not(:last-child),
+    .recent-stats--content .single--stats--content:not(:last-child){
+        margin-bottom: 16px;
+    }
+    .comment--tab .nav.nav-tabs li button{
+        padding: 6px 12px;
+        min-width: 100px;
+    }
+    .profile--img {
+        max-width:5%;
+        flex-basis:5%;
+    }
+    .input--box{
+        width: 100%;
+        max-width: 95%;
+        flex-basis: 95%;
+    }
+    .all-scene-and-recent--scene{
+        max-width:66%;
+        flex-basis:66%;
+    }
+    .by--store {
+        max-width: 25%;
+        flex-basis: 25%;
+    }
+    .recent--viewed-cameras--list ul{
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-gap: 20px;
+    }
+    /*Scene--Comment Area*/
+
+    /* Main  Content */
+}
+
+@media (min-width:1200px) and (max-width:1399px){
+
+
+    .subheading{
+        font-size: 22px;
+        line-height: 28px;
+    }
+    /* Side Nav */
+    .sidenav__area{
+        padding: 32px 16px 32px 16px;
+        max-width:100px;
+    }
+    .menu__wrapper{
+        padding: 32px 12px 0 12px;
+        width: 64px;
+    }
+    .admin__menu .menu__item .menu__link{
+        width: 64px;
+        height: 64px;
+    }
+    .side__menus .menu__item .menu__link img{
+        width: 24px;
+        height: 24px
+    }
+    .side__menus .menu__item:not(:last-child) {
+        margin-bottom: 32px;
+    }
+    .admin__menu .menu__item .menu__link img {
+        width: 32px;
+        height: 34px;
+    }
+    /*  Side Nav */
+
+    /* Main  Content */
+    .main__content{
+        width: 100%;
+        margin-left: 100px;
+        padding-left:24px;
+        padding-right:24px;
+        padding-bottom:24px;
+    }
+
+    /* Top Nav */
+    
+    .topnav__area .page--title h3{
+        font-size: 24px;
+        line-height: 22px;
+    }
+    .topnav--nav li:not(:first-child){
+        margin-left: 40px;
+    }
+    
+
+    .topnav--nav .topnav__item .topnav__link.add__camera-btn{
+        width: 160px;
+        height: 60px;
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .topnav--nav .topnav__item .topnav__link.add__camera-btn span svg{
+        width: 14px;
+        margin-left: 10px;
+    }
+    .topnav--nav .topnav__item .topnav__link.notification svg {
+        width:26px;
+    }
+    .topnav--nav .topnav__item .topnav__link.profile img{
+        width: 36px;
+    }
+    /* Top Nav */
+
+    /* Activity--Stats--Planogram Area */
+    
+    .activity--stats--planogram__area{
+        padding-top: 32px;
+    }
+
+    .activity--chart .daily--activity:not(:last-child){
+        margin-right: 4px;
+    }
+    .activity--content, .stats--content, .planogram--content {
+        padding: 24px;
+    }
+    .chart--col{
+        width: 32px;
+    }
+    .activity--title, .stats--title, .planogram--title{
+        margin-bottom: 20px;
+    }
+    .planogram--content-wrapper h2{
+        font-size:16px;
+        margin-top: 12px;
+    }
+    /* Activity--Stats--Planogram Area */
+
+    /*Scene--Comment Area*/
+
+    .scene--comment__area,
+    .recent--activity-stats__area{
+        padding-top: 32px;
+    }
+    .comment--wrapper {
+        max-width: 40%;
+        flex-basis: 35%;
+    }
+    .scene--title, .comment--title,
+    .recent--activity--title{
+        margin-bottom:20px;
+    }
+    .scene--content-box{
+        padding: 16px 12px;
+        max-width: 32%;
+        flex-basis: 32%;
+    }
+    .scene--content .scene--content-box:not(:last-child){
+        margin-right: 2%;
+    }
+    .scene--content-box--text .top__text h5,
+    .scene--content-box--text .bottom__text p, .scene--content-box--text .bottom__text span {
+        font-size:16px
+    }
+    .scene--content-box--text .top__text{
+        margin-bottom: 6px;
+    }
+    .scene__img-box{
+        width: 45px;
+        height: 45px
+    }
+    .scene__img-box img {
+        width: 20px;
+        height: 20px;
+    }
+
+    .scene--content-box--text {
+        padding-left:16px;
+    }
+    .recent--activity {
+        max-width: 50%;
+        flex-basis: 50%;
+        margin-right: 4%;
+    }
+    .stats--area {
+        max-width: 46%;
+        flex-basis: 46%;
+    }
+    .recent--activity--content{
+        padding: 16px;
+    }
+    .recent--activity--text h5,
+    .single--stats--content span:last-child {
+        font-size:15px;
+    }
+    .recent--activity--content .recent--activity--text:not(:last-child),
+    .recent-stats--content .single--stats--content:not(:last-child){
+        margin-bottom: 16px;
+    }
+    .comment--tab .nav.nav-tabs li button{
+        padding: 6px 12px;
+        min-width: 100px;
+    }
+    .profile--img {
+        max-width:5%;
+        flex-basis:5%;
+    }
+    .input--box{
+        width: 100%;
+        max-width: 95%;
+        flex-basis: 95%;
+    }
+
+    .all-scene-and-recent--scene{
+        max-width:60%;
+        flex-basis:60%;
+        margin-right: 6%;
+    }
+    .by--store {
+        max-width: 34%;
+        flex-basis: 34%;
+    }
+    .recent--viewed-cameras--list ul{
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-gap: 20px;
+    }
+    .all--scene-btn {
+        width: 160px;
+        height: 56px;
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .recent--viewed-cameras--title{
+        margin-top: 32px;
+    }
+    .recent-scene--table{
+        padding-top: 32px;
+    }
+    /*Scene--Comment Area*/
+
+    /* Main  Content */
+
+
+
+}
+
+@media ( min-width:992px) and (max-width:1199px){
+
+
+    .subheading{
+        font-size: 22px;
+        line-height: 28px;
+    }
+    /* Side Nav */
+    .sidenav__area{
+        padding: 18px;
+        max-width:100px;
+    }
+    .menu__wrapper{
+        padding: 32px 12px 0 12px;
+        width: 64px;
+    }
+    .admin__menu .menu__item .menu__link{
+        width: 64px;
+        height: 64px;
+    }
+    .side__menus .menu__item .menu__link img{
+        width: 24px;
+        height: 24px
+    }
+    .side__menus .menu__item:not(:last-child) {
+        margin-bottom: 32px;
+    }
+    .admin__menu .menu__item .menu__link img {
+        width: 32px;
+        height: 34px;
+    }
+    /*  Side Nav */
+
+    /* Main  Content */
+    .main__content{
+        width: 100%;
+        margin-left: 100px;
+        padding-left:24px;
+        padding-right:24px;
+        padding-bottom:24px;
+    }
+
+    /* Top Nav */
+    
+    .topnav__area .page--title h3{
+        font-size: 24px;
+        line-height: 22px;
+    }
+    .topnav--nav li:not(:first-child){
+        margin-left: 40px;
+    }
+
+    .topnav--nav .topnav__item .topnav__link.add__camera-btn{
+        width: 160px;
+        height: 60px;
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .topnav--nav .topnav__item .topnav__link.add__camera-btn span svg{
+        width: 14px;
+        margin-left: 10px;
+    }
+    .topnav--nav .topnav__item .topnav__link.notification svg {
+        width:26px;
+    }
+    .topnav--nav .topnav__item .topnav__link.profile img{
+        width: 36px;
+    }
+    /* Top Nav */
+
+    /* Activity--Stats--Planogram Area */
+    
+    .activity--stats--planogram__area{
+        padding-top: 32px;
+    }
+
+    .activity--wrapper{
+        max-width: 56%;
+        flex-basis: 56%;
+        margin-right: 4%;
+    }
+    .stats--wrapper{
+        max-width:40%;
+        flex-basis: 40%;
+        margin-right: 0;
+    }
+    .planogram--wrapper{
+        max-width: 100%;
+        flex-basis: 100%;
+        margin-right: 0;
+    }
+    .planogram--wrapper{
+        margin-top: 32px;
+    }
+
+    .activity--chart .daily--activity:not(:last-child){
+        margin-right: 4px;
+    }
+    .activity--content, .stats--content, .planogram--content {
+        padding: 24px;
+    }
+    .chart--col{
+        width: 32px;
+    }
+    .activity--title, .stats--title, .planogram--title{
+        margin-bottom: 20px;
+    }
+    .planogram--content-wrapper h2{
+        font-size:16px;
+        margin-top: 12px;
+    }
+    /* Activity--Stats--Planogram Area */
+
+    /*Scene--Comment Area*/
+
+    .scene--comment__area,
+    .recent--activity-stats__area{
+        padding-top: 32px;
+    }
+    .scene--recent--activity--wrapper,
+    .comment--wrapper{
+        max-width:100%;
+        flex-basis: 100%;
+        margin-right: 0;
+    }
+    .scene--title, .comment--title,
+    .recent--activity--title{
+        margin-bottom:20px;
+    }
+    .scene--content-box{
+        padding: 16px 12px;
+        max-width: 32%;
+        flex-basis: 32%;
+    }
+    .scene--content .scene--content-box:not(:last-child){
+        margin-right: 2%;
+    }
+    .scene--content-box--text .top__text h5,
+    .scene--content-box--text .bottom__text p, .scene--content-box--text .bottom__text span {
+        font-size:16px
+    }
+    .scene--content-box--text .top__text{
+        margin-bottom: 6px;
+    }
+    .scene__img-box{
+        width: 45px;
+        height: 45px
+    }
+    .scene__img-box img {
+        width: 20px;
+        height: 20px;
+    }
+
+    .scene--content-box--text {
+        padding-left:16px;
+    }
+    .recent--activity {
+        max-width: 50%;
+        flex-basis: 50%;
+        margin-right: 4%;
+    }
+    .stats--area {
+        max-width: 46%;
+        flex-basis: 46%;
+    }
+    .recent--activity--content{
+        padding: 16px;
+    }
+    .recent--activity--text h5,
+    .single--stats--content span:last-child {
+        font-size:15px;
+    }
+    .recent--activity--content .recent--activity--text:not(:last-child),
+    .recent-stats--content .single--stats--content:not(:last-child){
+        margin-bottom: 16px;
+    }
+    .comment--wrapper{
+        padding-top: 32px;
+    }
+
+    .profile--img {
+        max-width:5%;
+        flex-basis:5%;
+    }
+    .input--box{
+        width: 100%;
+        max-width: 95%;
+        flex-basis: 95%;
+    }
+
+    .all-scene--comment--wrapper{
+        max-width:100%;
+        flex-basis: 100%;
+        margin-right: 0;
+    }
+    .recent--viewed-cameras--list ul{
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+    .all--scene-btn {
+        width: 160px;
+        height: 56px;
+        font-size: 16px;
+        line-height: 22px;
+    }
+    /*Scene--Comment Area*/
+
+    /* Main  Content */
+
+
+
+}
+
+@media (min-width:768px) and (max-width:991px){
+
+    .subheading{
+        font-size: 22px;
+        line-height: 28px;
+    }
+    /* Side Nav */
+    .sidenav__area{
+        padding: 18px;
+        transform:translateX(-100%);
+        transition: all 0.4s ease-in-out;
+        max-width:100px;
+    }
+    .sidenav__area.show{
+        transform:translateX(0);
+    }
+    .menu__wrapper{
+        padding: 32px 12px 0 12px;
+        width: 64px;
+    }
+    .admin__menu .menu__item .menu__link{
+        width: 64px;
+        height: 64px;
+    }
+    .side__menus .menu__item .menu__link img{
+        width: 24px;
+        height: 24px
+    }
+    .side__menus .menu__item:not(:last-child) {
+        margin-bottom: 32px;
+    }
+    .admin__menu .menu__item .menu__link img {
+        width: 32px;
+        height: 34px;
+    }
+    /*  Side Nav */
+
+    /* Main  Content */
+    .main__content{
+        width: 100%;
+        margin-left: 0;
+        padding-left:24px;
+        padding-right:24px;
+        padding-bottom:24px;
+    }
+
+    /* Top Nav */
+    
+    .topnav__area .page--title h3{
+        font-size: 24px;
+        line-height: 22px;
+    }
+    .topnav--nav li:not(:first-child){
+        margin-left: 40px;
+    }
+
+    .topnav--nav .topnav__item .topnav__link.add__camera-btn{
+        width: 160px;
+        height: 60px;
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .topnav--nav .topnav__item .topnav__link.add__camera-btn span svg{
+        width: 14px;
+        margin-left: 10px;
+    }
+    .topnav--nav .topnav__item .topnav__link.notification svg {
+        width:26px;
+    }
+    .topnav--nav .topnav__item .topnav__link.profile img{
+        width: 36px;
+    }
+    .topnav__item.toggle__menu{
+        display: block;
+    }
+    #toggle__menu{
+        width: 30px;
+        height: auto;
+        background: transparent;
+        border: 0;
+    }
+    /* Top Nav */
+
+    /* Activity--Stats--Planogram Area */
+    
+    .activity--stats--planogram__area{
+        padding-top: 32px;
+    }
+
+    .activity--wrapper{
+        max-width: 56%;
+        flex-basis: 56%;
+        margin-right: 4%;
+    }
+    .stats--wrapper{
+        max-width:40%;
+        flex-basis: 40%;
+        margin-right: 0;
+    }
+    .planogram--wrapper{
+        max-width: 100%;
+        flex-basis: 100%;
+        margin-right: 0;
+    }
+    .planogram--wrapper{
+        margin-top: 32px;
+    }
+
+    .activity--chart .daily--activity:not(:last-child){
+        margin-right: 4px;
+    }
+    .activity--content, .stats--content, .planogram--content {
+        padding: 24px;
+    }
+    .chart--col{
+        width: 32px;
+    }
+    .activity--title, .stats--title, .planogram--title{
+        margin-bottom: 20px;
+    }
+    .planogram--content-wrapper h2{
+        font-size:16px;
+        margin-top: 12px;
+    }
+    /* Activity--Stats--Planogram Area */
+
+    /*Scene--Comment Area*/
+
+    .scene--comment__area,
+    .recent--activity-stats__area{
+        padding-top: 32px;
+    }
+    .scene--recent--activity--wrapper,
+    .comment--wrapper{
+        max-width:100%;
+        flex-basis: 100%;
+        margin-right: 0;
+    }
+    .scene--title, .comment--title,
+    .recent--activity--title{
+        margin-bottom:20px;
+    }
+    .scene--content-box{
+        padding: 16px 12px;
+        max-width: 32%;
+        flex-basis: 32%;
+    }
+    .scene--content .scene--content-box:not(:last-child){
+        margin-right: 2%;
+    }
+    .scene--content-box--text .top__text h5,
+    .scene--content-box--text .bottom__text p, .scene--content-box--text .bottom__text span {
+        font-size:16px
+    }
+    .scene--content-box--text .top__text{
+        margin-bottom: 6px;
+    }
+    .scene__img-box{
+        width: 45px;
+        height: 45px
+    }
+    .scene__img-box img {
+        width: 20px;
+        height: 20px;
+    }
+
+    .scene--content-box--text {
+        padding-left:16px;
+    }
+
+    .recent--activity,
+    .stats--area{
+        max-width:100%;
+        flex-basis: 100%;
+    }
+    .recent--activity{
+        margin-right: 0;
+        margin-bottom: 16px;
+    }
+    .stats--area{
+        padding-top: 16px;
+    }
+    .recent--activity--content{
+        padding: 16px;
+    }
+    .recent--activity--text h5,
+    .single--stats--content span:last-child {
+        font-size:15px;
+    }
+    .recent--activity--content .recent--activity--text:not(:last-child),
+    .recent-stats--content .single--stats--content:not(:last-child){
+        margin-bottom: 16px;
+    }
+    .comment--wrapper{
+        padding-top: 32px;
+    }
+
+    .profile--img {
+        max-width:5%;
+        flex-basis:5%;
+    }
+    .input--box{
+        width: 100%;
+        max-width: 95%;
+        flex-basis: 95%;
+    }
+
+    .all-scene--comment--wrapper{
+        max-width:100%;
+        flex-basis: 100%;
+        margin-right: 0;
+    }
+    .recent--viewed-cameras--list ul{
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+
+    .all--scene-btn {
+        width: 160px;
+        height: 56px;
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .recent--viewed-cameras--title{
+        margin-top: 32px;
+    }
+    .recent--viewed-cameras--list ul li a svg{
+        width:14px;
+    }
+    .recent--viewed-cameras--list ul li a{
+        font-size:16px;
+    }
+    .recent--scene--content table {
+        width: 1000px;
+    }
+    /*Scene--Comment Area*/
+
+    /* Main  Content */
+
+
+}
+
+@media (min-width:320px) and (max-width:767px){
+
+    .subheading{
+        font-size: 18px;
+        line-height: 22px;
+    }
+    /* Side Nav */
+    .sidenav__area{
+        padding: 18px;
+        transform:translateX(-100%);
+        transition: all 0.4s ease-in-out;
+        max-width:100px;
+    }
+    .sidenav__area.show{
+        transform:translateX(0);
+    }
+    .menu__wrapper{
+        padding: 32px 12px 0 12px;
+        width: 64px;
+    }
+    .admin__menu .menu__item .menu__link{
+        width: 64px;
+        height: 64px;
+    }
+    .side__menus .menu__item .menu__link img{
+        width: 24px;
+        height: 24px
+    }
+    .side__menus .menu__item:not(:last-child) {
+        margin-bottom: 32px;
+    }
+    .admin__menu .menu__item .menu__link img {
+        width: 32px;
+        height: 34px;
+    }
+    /*  Side Nav */
+
+    /* Main  Content */
+    .main__content{
+        width: 100%;
+        margin-left: 0;
+        padding-left:15px;
+        padding-right:15px;
+        padding-bottom:15px;
+    }
+
+    /* Top Nav */
+    
+    .topnav__area .page--title h3{
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .topnav--nav li:not(:first-child){
+        margin-left: 12px;
+    }
+
+    .topnav--nav .topnav__item .topnav__link.add__camera-btn{
+        width: 108px;
+        height: 42px;
+        font-size: 11px;
+        line-height: 20px;
+    }
+    .topnav--nav .topnav__item .topnav__link.add__camera-btn span svg{
+        width: 12px;
+        margin-left: 4px;
+    }
+    .topnav--nav .topnav__item .topnav__link.notification svg {
+        width:22px;
+    }
+    .topnav--nav .topnav__item .topnav__link.profile img{
+        width: 24px;
+    }
+    .topnav__item.toggle__menu{
+        display: block;
+    }
+    #toggle__menu{
+        width: 30px;
+        height: auto;
+        background: transparent;
+        border: 0;
+    }
+    /* Top Nav */
+
+    /* Activity--Stats--Planogram Area */
+    
+    .activity--stats--planogram__area{
+        padding-top: 32px;
+    }
+
+    .activity--wrapper,
+    .stats--wrapper,
+    .planogram--wrapper{
+        max-width: 100%;
+        flex-basis: 100%;
+        margin-right: 0;
+    }
+    .stats--wrapper,
+    .planogram--wrapper{
+        margin-top: 32px;
+    }
+
+    .activity--chart .daily--activity:not(:last-child){
+        margin-right: 4px;
+    }
+    .activity--content, .stats--content, .planogram--content {
+        padding: 12px;
+    }
+    .chart--col{
+        width: 20px;
+    }
+    .activity--title, .stats--title, .planogram--title{
+        margin-bottom: 20px;
+    }
+    .planogram--content-wrapper h2{
+        font-size:16px;
+        margin-top: 12px;
+    }
+    /* Activity--Stats--Planogram Area */
+
+    /*Scene--Comment Area*/
+
+    .scene--comment__area,
+    .recent--activity-stats__area{
+        padding-top: 32px;
+    }
+    .scene--recent--activity--wrapper,
+    .comment--wrapper{
+        max-width:100%;
+        flex-basis: 100%;
+        margin-right: 0;
+    }
+    .scene--content-box{
+        max-width:100%;
+        flex-basis: 100%;
+    }
+    .scene--content .scene--content-box:not(:last-child){
+        margin-right: 0;
+        margin-bottom: 16px;
+    }
+    .scene--title, .comment--title,
+    .recent--activity--title{
+        margin-bottom:20px;
+    }
+    .scene--content-box--text .top__text h5,
+    .scene--content-box--text .bottom__text p, .scene--content-box--text .bottom__text span {
+        font-size:16px
+    }
+    .scene--content-box--text .top__text{
+        margin-bottom: 6px;
+    }
+    .recent--activity,
+    .stats--area{
+        max-width:100%;
+        flex-basis: 100%;
+    }
+    .recent--activity{
+        margin-right: 0;
+        margin-bottom: 16px;
+    }
+    .stats--area{
+        padding-top: 16px;
+    }
+    .recent--activity--content{
+        padding: 16px;
+    }
+    .recent--activity--text h5,
+    .single--stats--content span:last-child {
+        font-size:15px;
+    }
+    .recent--activity--content .recent--activity--text:not(:last-child),
+    .recent-stats--content .single--stats--content:not(:last-child){
+        margin-bottom: 16px;
+    }
+    .comment--tab{
+        padding: 16px;
+    }
+    .comment--tab .nav.nav-tabs li button{
+        font-size:10px;
+        padding: 4px 12px;
+        min-width: 88px;
+        height: 36px;
+    }
+    .comment--tab .nav.nav-tabs li button svg {
+        width: 14px;
+        margin-right: 3px;
+    }
+    .comment--wrapper{
+        padding-top: 32px;
+    }
+    
+    .profile--img {
+        max-width:10%;
+        flex-basis: 10%;
+    }
+    .input--box{
+        width: 100%;
+        max-width: 86%;
+        flex-basis: 86%;
+    }
+
+    .all-scene--comment--wrapper{
+        max-width:100%;
+        flex-basis: 100%;
+        margin-right: 0;
+    }
+    .all-scene-and-recent--scene{
+        max-width: 100%;
+        flex-basis: 100%;
+        margin-right: 0;
+    }
+    .recent--viewed-cameras--list ul{
+        grid-template-columns: 1fr 1fr;
+    }
+    .by--store {
+        max-width: 100%;
+        flex-basis:100%;
+        margin-top: 32px;
+    }
+    .all--scene-btn {
+        width: 140px;
+        height: 48px;
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .recent--viewed-cameras--title{
+        margin-top: 32px;
+    }
+    .recent--viewed-cameras--list ul li a svg{
+        width:14px;
+    }
+    .recent--viewed-cameras--list ul li a{
+        font-size:16px;
+    }
+    .recent--scene--content table {
+        width: 1000px;
+    }
+    /*Scene--Comment Area*/
+
+    /* Main  Content */
+
+}
