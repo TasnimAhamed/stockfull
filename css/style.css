@@ -60,7 +60,9 @@ p{
     padding:51px 16px 0 16px;
 }
 
-.scene--page .topnav__area{
+.scene--page .topnav__area,
+.all-scene--page .topnav__area,
+.cameras--page .topnav__area{
     padding-top: 24px;
 }
 
@@ -756,7 +758,7 @@ p{
     font-family: 'ABeeZee',sans-serif;
     font-style: normal;
     font-weight: 400;
-    font-size: 17.8px;
+    font-size: 16px;
     line-height: 21px;
     color: #000000;
     vertical-align: middle;
@@ -787,6 +789,67 @@ p{
 }
 .action__btn button:not(:last-child){
     margin-right: 8px;
+}
+
+
+.controll--btn__area{
+    padding-top: 56px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content:space-between;
+}
+
+.sync---btn{
+    background:#F39422;
+    font-family: 'ABeeZee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    color: #FFFFFF;
+    border: 0;
+    width: 166px;
+    height:71px;
+    margin-right: 80px;
+}
+.descending--btn,
+.ascending--btn,
+.grid--btn,
+.space--btn{
+    font-family: 'ABeeZee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 26px;
+    color: #000000;
+    border: 0;
+    background:transparent;
+    margin-right: 40px;
+}
+.sync---btn svg,
+.descending--btn svg,
+.ascending--btn svg,
+.grid--btn svg,
+.space--btn svg,
+.add--camera-btn svg{
+    width:20px;
+    margin-right: 6px;
+}
+.add--camera-btn{
+    background:#F39422;
+    font-family: 'ABeeZee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    color: #FFFFFF;
+    border: 0;
+    width:216px;
+    height:71px;
+}
+.left--btn-wrapper .add--camera-btn{
+    display:none;
 }
 /* Scene--Comment Area */
 

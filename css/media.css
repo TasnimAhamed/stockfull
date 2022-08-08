@@ -557,6 +557,25 @@
     .recent-scene--table{
         padding-top: 32px;
     }
+    .sync---btn{
+        width: 160px;
+        height:64px;
+        font-size:18px;
+        margin-right: 40px;
+    }
+    
+    .descending--btn,
+    .ascending--btn,
+    .grid--btn,
+    .space--btn{
+        margin-right: 20px;
+        font-size: 18px;
+    }
+    .add--camera-btn{
+        font-size:18px;
+        width: 180px;
+        height: 64px;
+    }
     /*Scene--Comment Area*/
 
     /* Main  Content */
@@ -776,7 +795,25 @@
     .recent--scene--content table {
         width: 1250px;
     }
+    .sync---btn{
+        width: 160px;
+        height:64px;
+        font-size:18px;
+        margin-right: 40px;
+    }
     
+    .descending--btn,
+    .ascending--btn,
+    .grid--btn,
+    .space--btn{
+        margin-right: 20px;
+        font-size: 18px;
+    }
+    .add--camera-btn{
+        font-size:18px;
+        width: 180px;
+        height: 64px;
+    }
     /*Scene--Comment Area*/
 
     /* Main  Content */
@@ -1020,7 +1057,32 @@
     .recent--scene--content table {
         width: 1250px;
     }
+    .controll--btn__area,
+    .all-scene--table{
+        padding-top: 32px;
+    }
+    .sync---btn{
+        width: 144px;
+        height:56px;
+        font-size:14px;
+        margin-right: 16px;
+    }
     
+    .descending--btn,
+    .ascending--btn,
+    .grid--btn,
+    .space--btn{
+        margin-right: 12px;
+        font-size: 14px;
+    }
+    .add--camera-btn{
+        font-size:14px;
+        width: 144px;
+        height: 56px;
+    }
+    .sync---btn svg, .descending--btn svg, .ascending--btn svg, .grid--btn svg, .space--btn svg, .add--camera-btn svg {
+        width: 16px;
+    }
     /*Scene--Comment Area*/
 
     /* Main  Content */
@@ -1274,6 +1336,67 @@
     }
     .action__btn button img{
         width: 60%;
+    }
+
+    .controll--btn__area,
+    .all-scene--table{
+        padding-top: 32px;
+    }
+    .sync---btn{
+        width: 144px;
+        height:56px;
+        font-size:14px;
+        margin-right: 2%;
+    }
+    
+    .descending--btn,
+    .ascending--btn,
+    .grid--btn,
+    .space--btn{
+        font-size: 14px;
+    }
+    .descending--btn,
+    .grid--btn{
+        margin-right: 2%;
+    }
+    .ascending--btn,
+    .space--btn{
+        margin-right: 0;
+    }
+    .add--camera-btn{
+        font-size:14px;
+        width: 144px;
+        height: 56px;
+    }
+    .sync---btn svg, 
+    .descending--btn svg, 
+    .ascending--btn svg, 
+    .grid--btn svg, 
+    .space--btn svg, 
+    .add--camera-btn svg {
+        width: 16px;
+    }
+    .right--btn-wrapper{
+        display: none;
+    }
+    .left--btn-wrapper .add--camera-btn{
+        display:block;
+    }
+    .left--btn-wrapper{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+    .left--btn-wrapper button{
+        max-width:48%;
+        flex-basis:48%;
+        margin-bottom: 20px;
+    }
+    .recent--scene--content table thead tr th, .all--scene--content table thead tr th{
+        font-size:16px;
+    }
+    .recent--scene--content table tbody tr td, .all--scene--content table tbody tr td{
+        font-size:14px;
     }
     /*Scene--Comment Area*/
 
